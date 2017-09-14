@@ -1,0 +1,12 @@
+name: Blockstreet
+desc: *a brief description of the project*
+site: https://blockstreet.io
+tags:
+- javascript
+- vuejs
+- nodejs
+- cryptocurrency
+- blockchain
+upforgrabs:
+  name: help needed
+  link: https://github.com/blockstreet/interface/issues
